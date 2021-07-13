@@ -603,12 +603,13 @@ nav a em {
 	}
 
 	.pa-mobile-main-logo img {
-		height: 68px;
+		height: 50px;
 		width: auto;
 	}
 
 	body.hc-nav-open .pa-mobile-main-logo {
 		opacity: 0;
+		
 	}
 
 	.hc-offcanvas-nav {
@@ -789,7 +790,7 @@ nav a em {
 	}
 
 	.pa-mobile-menu-logo img {
-		height: 66px;
+		height: 40px;
 		width: auto;
 	}
 
@@ -1609,8 +1610,9 @@ span.pa-back-to-top,
 }
 
 img {
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 60px;
+	margin: 15px;
 }
 
 /* Standard section basics */
@@ -3821,4 +3823,22 @@ section.pa-main-footer {
 .pa-dark-mode .menu-light-mode-panel .lm-indicator.dark-on {
 	opacity: 1;
 	left: 67px;
+}
+
+/* MY CSS PROPERTYS*/
+
+#logo1{
+	font-size: 2rem;
+	font-family: 'Blinker', sans-serif;
+	font-weight: 500;
+	color:#fff;
+}
+@media(max-width: 728px){
+	#logo1{
+		font-size: 1rem;
+		font-family: 'Blinker', sans-serif;
+		font-weight: 500;
+		color:#fff;
+	}
+	
 }
