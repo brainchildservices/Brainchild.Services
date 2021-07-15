@@ -1107,7 +1107,7 @@ p.pa-p-v1 {
 }
 
 p.pa-p-v1.pa-bright {
-	color: #9EC7D9;
+	color: #0d0d0e;
 	font-weight: 200;
 }
 
@@ -1181,7 +1181,7 @@ p.pa-p-v1.pa-dark {
 }
 
 .pa-h1-v2.pa-bright {
-	color: #FFFFFF;
+	color: #0a0101;
 }
 
 .pa-h1-v2.pa-dark {
@@ -1630,7 +1630,7 @@ body.pa-dark section.pa-standard-section { /* normal dark section */
 }
 
 body.pa-dark section.pa-standard-section.pa-dark { /* dark section for dark home */
-	background-color: #0C171F;
+	background-color: #fff;
 }
 
 /* Section that centers content vertically */
