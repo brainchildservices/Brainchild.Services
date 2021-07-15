@@ -28,6 +28,7 @@
  * 21. PAGE: Service Item
  * 22. Media Queries
  * 23. Dark Mode Switch
+ * 24. Logo & Navbar CSS Properties
  * ------------------------------------
  * -- Blog CSS is in particle-blog.css
  * -- Colors are in particle-colors.css
@@ -3825,16 +3826,19 @@ section.pa-main-footer {
 	left: 67px;
 }
 
-/* MY CSS PROPERTYS*/
+/*
+ * 24. Logo & Navbar CSS Properties
+ * =============================
+ */
 
-#logo1{
+#brainchildlogo{
 	font-size: 2rem;
 	font-family: 'Blinker', sans-serif;
 	font-weight: 500;
 	color:#fff;
 }
 @media(max-width: 728px){
-	#logo1{
+	#brainchildlogo{
 		font-size: 1rem;
 		font-family: 'Blinker', sans-serif;
 		font-weight: 500;
