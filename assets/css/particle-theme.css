@@ -1629,7 +1629,7 @@ section.pa-standard-section.pa-bright { /* normal bright section */
 
 section.pa-standard-section.pa-dark, 
 body.pa-dark section.pa-standard-section { /* normal dark section */
-	background-color: #101C26;
+	background-color: #0C171F;
 }
 
 body.pa-dark section.pa-standard-section.pa-dark { /* dark section for dark home */
