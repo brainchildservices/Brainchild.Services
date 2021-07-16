@@ -2333,10 +2333,11 @@ img.pa-services-image {
 footer {
 	position: relative;
 	background-color: #0C161E;
+	padding-top: 25px;
 }
 
 footer p {
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 400;
 	color: #697982;
 }
