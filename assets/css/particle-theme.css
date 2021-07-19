@@ -1258,9 +1258,10 @@ p.pa-p-v1.pa-dark {
 
 .pa-h2-quote {
 	margin-bottom: 20px;
-	font-size: 41px;
+	font-size: 37px;
 	font-weight: 200;
 	line-height: 47px;
+
 }
 
 .pa-h2-quote strong {
@@ -3847,3 +3848,4 @@ section.pa-main-footer {
 	}
 	
 }
+
