@@ -1162,7 +1162,6 @@ p.pa-p-v1.pa-dark {
 }
 
 .pa-h2-v2-hero-subhead {
-    margin-bottom: 40px;
     font-size: 37px;
     line-height: 49px;
     font-weight: 200;
@@ -1846,6 +1845,11 @@ body.pa-dark .pa-stripe-heading {
 
 #portfolio {
     background-color: #e1e1e1;
+}
+
+#swissfy {
+    font-weight: bold;
+    color: #ff7676;
 }
 
 .pa-dark #portfolio {
@@ -3710,8 +3714,18 @@ section.pa-main-footer {
         font-weight: 500;
         color: #fff;
     }
+    #logo {
+        width: auto;
+        height: 40px;
+        margin-left: 0px;
+    }
 }
 
 #abouttext {
     color: #fff !important;
+}
+
+#bannerpara {
+    font-size: 100%;
+    color: #fff;
 }
