@@ -120,7 +120,7 @@ $(document).ready(function() {
     // Initiate typed.js text effect (done custom for each typed text effect)
     $(".animated-text-effect").typed({
         // Enter your texts here, these texts are applied to dark homepages
-        strings: ["WE BUILD SCALABLE AND INGENIOUS SOFTWARE PRODUCTS^", "WE STEM BEST CLASS SOFTWARE ENGINEERS^"],
+        strings: ["WE BUILD SCALABLE AND INGENIOUS SOFTWARE PRODUCTS^"],
         contentType: "text",
         typeSpeed: 40,
         loop: true,
