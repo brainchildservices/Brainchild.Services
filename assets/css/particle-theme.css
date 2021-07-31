@@ -3751,3 +3751,23 @@ section.pa-main-footer {
     font-weight: 600 !important;
     font-size: 16px;
 }
+
+#swissfyit {
+    color: #fff;
+    font-size: 60px;
+    font-family: 'play', sans-serif;
+}
+
+@media(max-width: 728px) {
+    #swissfyit {
+        color: #fff;
+        font-size: 40px !important;
+        font-family: 'play', sans-serif;
+        text-align: center;
+    }
+    #abouttext {
+        font-size: 16px !important;
+        font-family: 'play', sans-serif;
+        text-align: justify;
+    }
+}
